@@ -1,45 +1,37 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Solviante
 
+**Genres:** Brazilian Funk, Phonk
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+**Monthly Listeners:** Approximately 22,000 :contentReference[oaicite:0]{index=0}
 
-- It's built with components from my Responsive Tools project.
+## Biography
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+Solviante is a dynamic music artist known for blending Brazilian funk and phonk genres. Based in Mexico, Solviante has carved a niche in the music scene with distinctive rhythms and beats that resonate with fans worldwide.
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+## Notable Collaborations
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+- **SCREQ:** Collaborated on the track "SEQUÊNCIA DE RUGOSO," a fusion of Brazilian funk and phonk, released 10 months ago. :contentReference[oaicite:1]{index=1}
 
-- A ton of other stuff.
+- **Wxvey:** Teamed up on multiple tracks, including "Funk Da Sedução," showcasing a seamless blend of both artists' styles. :contentReference[oaicite:2]{index=2}
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+## Popular Tracks
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- **TROLL:** One of Solviante's most popular tracks, with 21.9K streams. :contentReference[oaicite:3]{index=3}
 
-(* = not included)
+- **FUNK ASTRONÔMICO - SLOWED DOWN:** A slowed-down phonk track known for its unique rhythm and vibe. :contentReference[oaicite:4]{index=4}
 
-AJ
-aj@lkn.io | @ajlkn
+## Social Media Presence
 
+- **TikTok:** Solviante actively engages with fans by sharing music and behind-the-scenes content. :contentReference[oaicite:5]{index=5}
 
-Credits:
+## Listen Now
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **YouTube:** Explore Solviante's music and collaborations on YouTube. :contentReference[oaicite:6]{index=6}
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- **Spotify:** Explore Solviante's music and collaborations on Spotify. :contentReference[oaicite:7]{index=7}
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+
+For collaborations, bookings, or inquiries, reach out via Solviante's social media platforms or discord.
+
+*Note: Information is based on available data as of March 2025.*
