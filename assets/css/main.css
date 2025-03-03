@@ -2313,21 +2313,23 @@ input, select, textarea {
 				padding-right: 0 !important;
 			}
 
-		ul.icons.major {
-			padding: 1em 0;
-		}
+ul.icons.major {
+    padding: 1em 0;
+    display: flex; /* This makes the list flexible */
+    flex-direction: column; /* This stacks the icons vertically */
+    align-items: center; /* This centers the icons horizontally */
+    gap: 2rem; /* Optional: Adds space between the icons */
+}
 
-			ul.icons.major li {
-				padding-right: 3.5em;
-			}
+ul.icons.major li {
+    padding: 0; /* Reset any extra padding */
+}
 
-				@media screen and (max-width: 736px) {
-
-					ul.icons.major li {
-						padding: 0 1em !important;
-					}
-
-				}
+@media screen and (max-width: 736px) {
+    ul.icons.major {
+        gap: 1rem; /* Smaller gap on smaller screens */
+    }
+}
 
 /* Table */
 
